@@ -24,8 +24,8 @@ function log(level, message, data = {}) {
 const DOR_CONFIG = {
     apiUrl: 'https://golang-openapi-packagepurchase-xltembakservice.kmsp-store.com/v1',
     apiKey: 'fe53906b-a4a4-4ce0-bdbd-a80dfaa003db',
-    packageCode: 'XL_EDU_2GB_1K_DANA', // Default package
-    paymentMethod: 'DANA' // Default payment method: 'DANA' atau 'QRIS'
+    packageCode: 'XLUNLITURBOPREMIUMPROMO3K', // Default package
+    paymentMethod: 'BALANCE' // Default payment method: 'DANA' atau 'QRIS'
 };
 
 const OTP_CONFIG = {
