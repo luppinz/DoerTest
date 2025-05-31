@@ -1,0 +1,21 @@
+{
+  "name": "xl-dor-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk XL DOR dengan API terbaru",
+  "main": "telegram-bot.js",
+  "scripts": {
+    "start": "node telegram-bot.js",
+    "dev": "nodemon telegram-bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "keywords": ["telegram", "bot", "xl", "dor"],
+  "author": "Your Name",
+  "license": "MIT"
+}
