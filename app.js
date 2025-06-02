@@ -35,7 +35,7 @@ const OTP_CONFIG = {
 };
 
 // Ganti dengan token bot Telegram Anda dari @BotFather
-const TELEGRAM_TOKEN = '7585136076:AAHCMVn8iYGHDTNRdcnk9tznO-Y_O46BfYo';
+const TELEGRAM_TOKEN = '8083393921:AAE6oZDf3Usg1cS5UJ3DslwJXHNI4V7aXw4';
 
 // Inisialisasi bot Telegram
 const bot = new TelegramBot(TELEGRAM_TOKEN, {polling: true});
